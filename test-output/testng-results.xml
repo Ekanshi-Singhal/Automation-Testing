@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44351" started-at="2019-02-04T04:23:23Z" finished-at="2019-02-04T04:24:08Z">
+    <groups>
+    </groups>
+    <test name="TestOnFirefox" duration-ms="21182" started-at="2019-02-04T04:23:23Z" finished-at="2019-02-04T04:23:45Z">
+      <class name="utilities.Driver">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:utilities.Driver@604ed9f0]" name="openBrowser" is-config="true" duration-ms="8686" started-at="2019-02-04T04:23:23Z" finished-at="2019-02-04T04:23:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openGmail()[pri:0, instance:utilities.Driver@604ed9f0]" name="openGmail" duration-ms="11048" started-at="2019-02-04T04:23:32Z" description="opening gmail" finished-at="2019-02-04T04:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGmail -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:utilities.Driver@604ed9f0]" name="closeBrowser" is-config="true" duration-ms="1416" started-at="2019-02-04T04:23:43Z" finished-at="2019-02-04T04:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- utilities.Driver -->
+    </test> <!-- TestOnFirefox -->
+    <test name="TestOnChrome" duration-ms="12379" started-at="2019-02-04T04:23:45Z" finished-at="2019-02-04T04:23:57Z">
+      <class name="utilities.Driver">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:utilities.Driver@4cf777e8]" name="openBrowser" is-config="true" duration-ms="4198" started-at="2019-02-04T04:23:45Z" finished-at="2019-02-04T04:23:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openGmail()[pri:0, instance:utilities.Driver@4cf777e8]" name="openGmail" duration-ms="7415" started-at="2019-02-04T04:23:49Z" description="opening gmail" finished-at="2019-02-04T04:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGmail -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:utilities.Driver@4cf777e8]" name="closeBrowser" is-config="true" duration-ms="764" started-at="2019-02-04T04:23:56Z" finished-at="2019-02-04T04:23:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- utilities.Driver -->
+    </test> <!-- TestOnChrome -->
+    <test name="TestOnIE" duration-ms="10736" started-at="2019-02-04T04:23:57Z" finished-at="2019-02-04T04:24:08Z">
+      <class name="utilities.Driver">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:utilities.Driver@6fd02e5]" name="openBrowser" is-config="true" duration-ms="2767" started-at="2019-02-04T04:23:57Z" finished-at="2019-02-04T04:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openGmail()[pri:0, instance:utilities.Driver@6fd02e5]" name="openGmail" duration-ms="7330" started-at="2019-02-04T04:24:00Z" description="opening gmail" finished-at="2019-02-04T04:24:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGmail -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:utilities.Driver@6fd02e5]" name="closeBrowser" is-config="true" duration-ms="635" started-at="2019-02-04T04:24:07Z" finished-at="2019-02-04T04:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- utilities.Driver -->
+    </test> <!-- TestOnIE -->
+  </suite> <!-- Suite -->
+</testng-results>
