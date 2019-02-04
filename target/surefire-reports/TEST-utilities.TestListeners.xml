@@ -5,7 +5,7 @@
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_201\bin"/>
     <property name="java.vm.version" value="25.201-b09"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\ekanshi.singhal\eclipse-workspace\automate"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:/Users/ekanshi.singhal/eclipse-workspace/automate"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -27,24 +27,26 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\ekanshi.singhal\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf242163145063468711.tmp"/>
+    <property name="classworlds.conf" value="C:/Users/ekanshi.singhal/Downloads/apache-maven-3.6.0-bin/apache-maven-3.6.0/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_201\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_201/bin/server;C:/Program Files/Java/jre1.8.0_201/bin;C:/Program Files/Java/jre1.8.0_201/lib/amd64;C:\Users\ekanshi.singhal\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Users\ekanshi.singhal\eclipse-workspace\automate\drivers\;C:\Users\ekanshi.singhal\AppData\Local\Microsoft\WindowsApps;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\cmd;C:\Users\ekanshi.singhal\Desktop;;."/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\ekanshi.singhal\bin;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\mingw64\bin;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\usr\local\bin;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\usr\bin;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\usr\bin;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\mingw64\bin;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\usr\bin;C:\Users\ekanshi.singhal\bin;C:\Users\ekanshi.singhal\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\windows\System32\OpenSSH;C:\Users\ekanshi.singhal\eclipse-workspace\automate\drivers;C:\Users\ekanshi.singhal\AppData\Local\Microsoft\WindowsApps;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\cmd;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\usr\bin\vendor_perl;C:\Users\ekanshi.singhal\AppData\Local\Programs\Git\usr\bin\core_perl;."/>
+    <property name="maven.conf" value="C:/Users/ekanshi.singhal/Downloads/apache-maven-3.6.0-bin/apache-maven-3.6.0/conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:/Users/ekanshi.singhal/Downloads/apache-maven-3.6.0-bin/apache-maven-3.6.0/lib/jansi-native"/>
     <property name="user.home" value="C:\Users\ekanshi.singhal"/>
     <property name="user.timezone" value="Asia/Calcutta"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="UTF-8"/>
+    <property name="file.encoding" value="Cp1252"/>
     <property name="user.name" value="ekanshi.singhal"/>
-    <property name="java.class.path" value="C:\Users\ekanshi.singhal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.10.0.20181127-2120\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="C:/Users/ekanshi.singhal/Downloads/apache-maven-3.6.0-bin/apache-maven-3.6.0/boot/plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jre1.8.0_201"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -53,7 +55,7 @@
     <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_201\lib\ext;C:\windows\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_201\lib\resources.jar;C:\Program Files\Java\jre1.8.0_201\lib\rt.jar;C:\Program Files\Java\jre1.8.0_201\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_201\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_201\lib\jce.jar;C:\Program Files\Java\jre1.8.0_201\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_201\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_201\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\ekanshi.singhal\eclipse-workspace\automate\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\ekanshi.singhal\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
